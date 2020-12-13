@@ -1,2 +1,2 @@
 # Codechef-Challenge
-![image](https://www.codechef.com/DEC20/?itm_medium=hpbanner&itm_campaign=DEC20)
+![image](https://s3.amazonaws.com/codechef_shared/download/1-HP-LC-Rippling-Panel.png)
