@@ -1,2 +1,2 @@
 # Codechef-Challenge
-![image](https://github.com/badascoder/Codechef-NOV20-Challenge/blob/main/CodeChef.png)
+![image](https://www.codechef.com/DEC20/?itm_medium=hpbanner&itm_campaign=DEC20)
