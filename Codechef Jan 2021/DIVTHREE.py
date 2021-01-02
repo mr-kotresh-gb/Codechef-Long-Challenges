@@ -1,4 +1,4 @@
-# Question link ->    https://www.codechef.com/DEC20B/problems/FAIRELCT
+# Question link ->    https://www.codechef.com/DEC20B/problems/DIVTHREE
 # Code By       ->    Kotresh G B
 # Date          ->    01/01/2021
 
